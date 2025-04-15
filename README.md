@@ -1,4 +1,4 @@
-# myapp
+# Imersão Alura Restaurant App
 
 A new Flutter project.
 
